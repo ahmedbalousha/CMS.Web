@@ -1,0 +1,59 @@
+import 'package:flutter/material.dart';
+import 'HomeScreen.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: HomeScreen(),
+    );
+  }
+}
+............................................................
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+
+class HomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(
+          backgroundColor: Colors.lightGreen,
+          leading: Icon(
+            Icons.menu,
+          ),
+          title: Text(
+            'MyApp',
+          ),
+          actions: [
+            IconButton(icon: Icon(Icons.search), onPressed: onSearch),
+            IconButton(
+              icon: Text("Hello"),
+              onPressed: () {},
+            )
+          ],
+        ),
+        body: Column(children: [
+          Expanded(
+            child: Container(
+                child: Text(
+              "Mena",
+              style: TextStyle(
+                color: Colors.amber,
+                fontSize: 40.0,
+                backgroundColor: Colors.cyanAccent,
+              ),
+            )),
+          ),
+        ]));
+  }
+
+  void onSearch() {
+    print("Search");
+  }
+}

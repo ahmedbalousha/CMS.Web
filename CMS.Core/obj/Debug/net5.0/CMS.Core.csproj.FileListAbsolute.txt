@@ -1,0 +1,12 @@
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\bin\Debug\net5.0\CMS.Core.deps.json
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\bin\Debug\net5.0\ref\CMS.Core.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.AssemblyInfoInputs.cache
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.AssemblyInfo.cs
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\ref\CMS.Core.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.pdb
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Core\obj\Debug\net5.0\CMS.Core.csproj.AssemblyReference.cache

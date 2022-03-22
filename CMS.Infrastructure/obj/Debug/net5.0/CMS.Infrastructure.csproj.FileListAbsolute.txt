@@ -1,0 +1,17 @@
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.AssemblyInfo.cs
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.deps.json
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\ref\CMS.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Infrastructure.pdb
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Data.pdb
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\bin\Debug\net5.0\CMS.Core.pdb
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.csproj.CopyComplete
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\ref\CMS.Infrastructure.dll
+C:\Users\ahmedbalousha\source\repos\CMS\CMS.Infrastructure\obj\Debug\net5.0\CMS.Infrastructure.pdb

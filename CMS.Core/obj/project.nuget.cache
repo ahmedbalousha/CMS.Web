@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hlrjBwOY45pyfw+mIrNmbEAfXkbDXj+zJq6y3MV3afVKm8Zb9qyI4zL4UUpDEjLWlsCYgpyOSSL8hxtChcwWiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmedbalousha\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.11\\microsoft.aspnetcore.http.features.5.0.11.nupkg.sha512",
+    "C:\\Users\\ahmedbalousha\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\ahmedbalousha\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
