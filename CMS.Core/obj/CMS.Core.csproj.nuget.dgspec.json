@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj": {}
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj": {
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "projectUniqueName": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
         "projectName": "CMS.Core",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
         "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\obj\\",
+        "outputPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",

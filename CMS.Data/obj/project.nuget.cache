@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TerWtH04add75RQOkQG24iX2JVyOKFJKC/SZ7exvJ/+UqdU1j5ruyUzOdM6nF6Eccb3+l+RX2gScRy7gKMmXNg==",
+  "dgSpecHash": "21jF+6tqs7vWGcKmLriLUTozkWFbguX+22aspUZ5iU0B0cgnwQ8RE8bx0wz1s6a2Zj7ZXr2wG9N0gfnkrEsIHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\CMS.Data.csproj",
+  "projectFilePath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\CMS.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmedbalousha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ahmedbalousha\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.11\\microsoft.aspnetcore.cryptography.internal.5.0.11.nupkg.sha512",

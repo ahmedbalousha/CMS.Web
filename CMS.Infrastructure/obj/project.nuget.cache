@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FsXCMZ54VP8EJ9itGehNj00WSs2k6JQ93rHXkW5xZj0yWrnrYIL0zGcKbYJY/feXeKDEfqHGsezVGapjEkMZDw==",
+  "dgSpecHash": "rb3dcEGc4nrPq0vD1GKQrFeBlI+BieVIAdMWIfnlzaorhFBvRJaIWKdZMp8mMgEZe5rasaUmvBL4hQCH444Odw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
+  "projectFilePath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmedbalousha\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ahmedbalousha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

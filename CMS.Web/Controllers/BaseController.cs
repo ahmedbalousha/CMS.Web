@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CMS.Web.Controllers
 {
-    [Authorize]
+  //  [Authorize]
     public class BaseController : Controller
     {
         protected readonly IUserService _userService;

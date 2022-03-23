@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Web\\CMS.Web.csproj": {}
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Web\\CMS.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj": {
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "projectUniqueName": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
         "projectName": "CMS.Core",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj",
         "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\obj\\",
+        "outputPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\CMS.Data.csproj": {
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\CMS.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\CMS.Data.csproj",
+        "projectUniqueName": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\CMS.Data.csproj",
         "projectName": "CMS.Data",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\CMS.Data.csproj",
+        "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\CMS.Data.csproj",
         "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\obj\\",
+        "outputPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Core\\CMS.Core.csproj"
+              "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Core\\CMS.Core.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
         "projectName": "CMS.Infrastructure",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
+        "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\obj\\",
+        "outputPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\CMS.Data.csproj": {
-                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Data\\CMS.Data.csproj"
+              "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\CMS.Data.csproj": {
+                "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Data\\CMS.Data.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Web\\CMS.Web.csproj": {
+    "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Web\\CMS.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Web\\CMS.Web.csproj",
+        "projectUniqueName": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Web\\CMS.Web.csproj",
         "projectName": "CMS.Web",
-        "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Web\\CMS.Web.csproj",
+        "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Web\\CMS.Web.csproj",
         "packagesPath": "C:\\Users\\ahmedbalousha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Web\\obj\\",
+        "outputPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmedbalousha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,8 +255,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ahmedbalousha\\source\\repos\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj"
+              "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
+                "projectPath": "D:\\Users\\ahmedbalousha\\Source\\Repos\\CMS.Web\\CMS.Infrastructure\\CMS.Infrastructure.csproj"
               }
             }
           }
